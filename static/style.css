@@ -1,18 +1,18 @@
 /* Light mode */
 body {
-  background-color: #d6ddec;
+  background-color: #d1d4db;
   color: #121717;
 }
 
 /* Dark mode */
 .dark-mode {
-  background-color: #121717;
+  background-color: #101429;
   color: #c9c9c9;
 }
 
 #chat-window {
   position: relative;
-  height: 70vh;
+  height: 100vh;
   overflow: auto;
 }
 
